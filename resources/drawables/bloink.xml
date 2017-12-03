@@ -1,0 +1,7 @@
+<resources>
+    <drawable-list id="Smiley" background="Gfx.COLOR_YELLOW">
+        <shape type="circle" x="10" y="10" radius="5" color="Gfx.COLOR_BLACK" />
+        <shape type="circle" x="30" y="10" radius="5" color="Gfx.COLOR_BLACK" />
+        <bitmap id="mouth" x="15" y="25" filename="../drawables/monkey.png" />
+    </drawable-list>
+</resources>

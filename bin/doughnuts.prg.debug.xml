@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="12" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="13" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="17" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="18" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="19" pc="268435526" symbol="onLayout"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="25" pc="268435564" symbol="onShow"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="30" pc="268435569" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="32" pc="268435573" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="35" pc="268435593" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="41" pc="268435665" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="42" pc="268435688" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="43" pc="268435718" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="47" pc="268435802" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="48" pc="268435819" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="57" pc="268435857" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="58" pc="268435897" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="67" pc="268435958" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="68" pc="268435998" symbol="onUpdate"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsView.mc" lineNum="80" pc="268436084" symbol="onHide"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsApp.mc" lineNum="5" pc="268436089" symbol="initialize"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsApp.mc" lineNum="6" pc="268436093" symbol="initialize"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsApp.mc" lineNum="10" pc="268436112" symbol="onStart"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsApp.mc" lineNum="14" pc="268436117" symbol="onStop"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsApp.mc" lineNum="18" pc="268436122" symbol="getInitialView"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doughnutsApp.mc" lineNum="19" pc="268436126" symbol="getInitialView"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doinkView.mc" lineNum="6" pc="268436164" symbol="initialize"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doinkView.mc" lineNum="7" pc="268436168" symbol="initialize"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doinkView.mc" lineNum="8" pc="268436186" symbol="initialize"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doinkView.mc" lineNum="12" pc="268436200" symbol="compute"/>
+<entry filename="/Users/matt/eclipse-workspace/doughnuts/source/doinkView.mc" lineNum="13" pc="268436204" symbol="compute"/>
+<entry filename="Rez" lineNum="20" pc="268436214" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268436218" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268436242" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268436286" symbol="draw"/>
+<entry filename="Rez" lineNum="26" pc="268436290" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268436297" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268436304" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268436317" symbol="draw"/>
+<entry filename="Rez" lineNum="30" pc="268436330" symbol="draw"/>
+<entry filename="Rez" lineNum="33" pc="268436353" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="34" pc="268436357" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="35" pc="268436393" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="36" pc="268436437" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="38" pc="268436473" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="39" pc="268436509" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="41" pc="268436554" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="42" pc="268436590" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="44" pc="268436635" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="57" pc="268436684" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="17" object="true" symbol="Smiley"/>
+<entry field="true" id="22" symbol="bmp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="20" method="true" symbol="MainLayout"/>
+<entry field="true" id="15" symbol="bmp_doughnut"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="19" method="true" symbol="drawComplex"/>
+<entry id="9" object="true" symbol="doughnutsView"/>
+<entry field="true" id="23" symbol="history"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="11" object="true" symbol="MySimpleHRField"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="14" symbol="mouth"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="10" object="true" symbol="doughnutsApp"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="24" symbol="doughnut_calories"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="18" symbol="image_mouth"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435564" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435802" name="i" stackId="2" startPc="268435718"/>
+<entry endPc="268436083" name="info" stackId="3" startPc="268435573"/>
+<entry endPc="268436084" name="dc" stackId="1" startPc="268435569"/>
+<entry endPc="268436117" name="state" stackId="1" startPc="268436112"/>
+<entry endPc="268436122" name="state" stackId="1" startPc="268436117"/>
+<entry endPc="268436214" name="info" stackId="1" startPc="268436200"/>
+<entry endPc="268436352" name="pWidth" stackId="4" startPc="268436290"/>
+<entry endPc="268436352" name="pY" stackId="3" startPc="268436290"/>
+<entry endPc="268436352" name="pX" stackId="2" startPc="268436290"/>
+<entry endPc="268436352" name="pHeight" stackId="5" startPc="268436290"/>
+<entry endPc="268436353" name="dc" stackId="1" startPc="268436286"/>
+<entry endPc="268436684" name="pWidth" stackId="4" startPc="268436353"/>
+<entry endPc="268436684" name="dc" stackId="1" startPc="268436353"/>
+<entry endPc="268436684" name="pY" stackId="3" startPc="268436353"/>
+<entry endPc="268436684" name="pX" stackId="2" startPc="268436353"/>
+<entry endPc="268436684" name="pHeight" stackId="5" startPc="268436353"/>
+<entry endPc="268436697" name="dc" stackId="1" startPc="268436684"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="doughnutsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="doughnutsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="doughnutsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="doughnutsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="doughnutsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="doughnutsApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="doughnutsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="doughnutsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="doughnutsApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MySimpleHRField">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="MySimpleHRField">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Smiley">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Smiley">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="Smiley">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="doughnutsApp" type="class"/>
+<dataEntry offset="253" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="395" parentId="Drawables" symbolId="Smiley" type="class"/>
+<dataEntry offset="466" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="497" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="528" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="559" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="598" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="637" parentId="globals" symbolId="MySimpleHRField" type="class"/>
+<dataEntry offset="692" parentId="globals" symbolId="doughnutsView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

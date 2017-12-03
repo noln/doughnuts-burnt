@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <!-- <bitmap id="id_monkey" x="center" y="center" filename="../drawables/doughnut.png" /> -->
+    <!-- <label text="69" x="center" y="center" justification="Graphics.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" color="Gfx.COLOR_PINK" /> -->
+</layout>
