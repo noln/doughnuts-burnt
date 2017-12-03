@@ -1,5 +1,5 @@
 # doughnuts-burnt
-A simple Garmin IQ app for the Fenix 5X fitness GPS watch that shows the number of doughnuts burnt so far today.
+A simple Garmin Connect IQ app for the Fenix 5X fitness GPS watch that shows the number of doughnuts burnt so far today.
 
 On a spare Saturday night, I remembered a joke someone made at Cartems on the way back from a triathlon training weekend about how there should be a widget that shows you how many doughnuts you're allowed based on how many calories you've burnt so far in a day.
 
